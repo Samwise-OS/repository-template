@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   baseline:
-    uses: Samwise-OS/admin/.github/workflows/repository-baseline.yml@9811e2dba4ecb5e4cb6564b385a7f6b4e46d6e2b
+    uses: Samwise-OS/admin/.github/workflows/repository-baseline.yml@c5f14882817a06f1982b4fcd34d429477b3061a8
     permissions:
       contents: read
